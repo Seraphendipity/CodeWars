@@ -1,0 +1,4 @@
+Maze.SolutionTest.sampleTest_01
+Maze.SolutionTest.sampleTest_02
+Maze.SolutionTest.sampleTest_03
+Maze.SolutionTest.sampleTest_04

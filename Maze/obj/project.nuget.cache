@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5B2Zhp8ykVwTPz2/vdOHA2v66sf/l3zgSY8ehMHbrHms4LrvC5M6QREaAtMsalcDJhEsFZd3neAnrtL6A63Qtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elija\\OneDrive\\Documents\\Code\\CodeWars\\Maze\\Maze.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elija\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\elija\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\elija\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\elija\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
