@@ -1,0 +1,13 @@
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\ChristmasTrees\bin\Debug\netcoreapp3.1\ChristmasTrees.exe
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\ChristmasTrees\bin\Debug\netcoreapp3.1\ChristmasTrees.deps.json
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\ChristmasTrees\bin\Debug\netcoreapp3.1\ChristmasTrees.runtimeconfig.json
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\ChristmasTrees\bin\Debug\netcoreapp3.1\ChristmasTrees.runtimeconfig.dev.json
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\ChristmasTrees\bin\Debug\netcoreapp3.1\ChristmasTrees.dll
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\ChristmasTrees\bin\Debug\netcoreapp3.1\ChristmasTrees.pdb
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\ChristmasTrees\obj\Debug\netcoreapp3.1\ChristmasTrees.csprojAssemblyReference.cache
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\ChristmasTrees\obj\Debug\netcoreapp3.1\ChristmasTrees.csproj.CoreCompileInputs.cache
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\ChristmasTrees\obj\Debug\netcoreapp3.1\ChristmasTrees.AssemblyInfoInputs.cache
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\ChristmasTrees\obj\Debug\netcoreapp3.1\ChristmasTrees.AssemblyInfo.cs
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\ChristmasTrees\obj\Debug\netcoreapp3.1\ChristmasTrees.dll
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\ChristmasTrees\obj\Debug\netcoreapp3.1\ChristmasTrees.pdb
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\ChristmasTrees\obj\Debug\netcoreapp3.1\ChristmasTrees.genruntimeconfig.cache
