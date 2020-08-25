@@ -1,0 +1,13 @@
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\HumanTimeFormat\obj\Debug\netcoreapp3.1\HumanTimeFormat.csprojAssemblyReference.cache
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\HumanTimeFormat\obj\Debug\netcoreapp3.1\HumanTimeFormat.csproj.CoreCompileInputs.cache
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\HumanTimeFormat\obj\Debug\netcoreapp3.1\HumanTimeFormat.AssemblyInfoInputs.cache
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\HumanTimeFormat\obj\Debug\netcoreapp3.1\HumanTimeFormat.AssemblyInfo.cs
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\HumanTimeFormat\bin\Debug\netcoreapp3.1\HumanTimeFormat.exe
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\HumanTimeFormat\bin\Debug\netcoreapp3.1\HumanTimeFormat.deps.json
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\HumanTimeFormat\bin\Debug\netcoreapp3.1\HumanTimeFormat.runtimeconfig.json
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\HumanTimeFormat\bin\Debug\netcoreapp3.1\HumanTimeFormat.runtimeconfig.dev.json
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\HumanTimeFormat\bin\Debug\netcoreapp3.1\HumanTimeFormat.dll
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\HumanTimeFormat\bin\Debug\netcoreapp3.1\HumanTimeFormat.pdb
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\HumanTimeFormat\obj\Debug\netcoreapp3.1\HumanTimeFormat.dll
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\HumanTimeFormat\obj\Debug\netcoreapp3.1\HumanTimeFormat.pdb
+C:\Users\elija\OneDrive\Documents\Code\CodeWars\HumanTimeFormat\obj\Debug\netcoreapp3.1\HumanTimeFormat.genruntimeconfig.cache
